@@ -1,6 +1,6 @@
-# mycode (Project Title)
+## mycode (Project Title)
 
-Python Class Learning Git
+Python Class Learning Git, here is the update
 
 ## Getting Started
 
